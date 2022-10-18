@@ -1,4 +1,4 @@
-#a
+# a
 x1 = input("podaj x dla a(x): ")
 x1 = float(x1)
 
@@ -11,7 +11,7 @@ elif x1 < 0:
 
 print("a(x) = ", x1)
 
-#b
+# b
 x2 = input("podaj x dla b(x): ")
 x2 = float(x2)
 
@@ -22,7 +22,7 @@ elif x2 < 1:
 
 print("b(x) = ", x2)
 
-#c
+# c
 x3 = input("podaj x dla c(x): ")
 x3 = float(x3)
 
