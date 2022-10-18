@@ -3,11 +3,11 @@ x1 = input("podaj x dla a(x): ")
 x1 = float(x1)
 
 if x1 > 0:
-    x1 = 2 * x1
+    x1 *= 2
 elif x1 == 0:
     x1 = 0
 elif x1 < 0:
-    x1 = -3 * x1
+    x1 *= -3
 
 print("a(x) = ", x1)
 
