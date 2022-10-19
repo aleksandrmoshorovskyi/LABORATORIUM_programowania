@@ -24,4 +24,4 @@ elif not deszcz and autobus:
     print("Dostaniesz się na uczelnie")
     print("Miłego dnia i pięknej pogody")
 else:
-    print("Coś jest nie tak!")
+    print("Coś jest nie tak!!!")
